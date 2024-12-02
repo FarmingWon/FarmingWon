@@ -54,7 +54,7 @@ I am conducting research as an undergraduate research student in the [Data Scien
 </table>
 
 
-#### Tools
+#### Tools 
 <table width="320px">
   <tbody>
     <tr valign="top">
