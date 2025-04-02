@@ -8,7 +8,7 @@ I am conducting research as an undergraduate research student in the [Data Scien
 
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarmingWon&theme=vue)
 <!--![FarmingWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarmingWon&show_icons=true&theme=transparent)-->
-[![FarmingWon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wonseok)](https://wakatime.com/@FarmingWon)<br>
+<!-- [![FarmingWon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wonseok)](https://wakatime.com/@FarmingWon)<br> -->
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thsdnjst)](https://solved.ac/thsdnjst/)-->
 ### 🛠 Tech Stack
 #### Frameworks & Languages
