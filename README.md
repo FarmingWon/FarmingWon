@@ -1,9 +1,13 @@
 [![mail](https://img.shields.io/badge/thsdnjstjr1@gmail.com-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:thsdnjstjr1@gmail.com)
 [![resume](https://img.shields.io/badge/Wonseok's_resume-47766a?style=round-square&logo=Notion)](https://drive.google.com/file/d/1r_TNNrRq91TIeZ_J8yMstyOYlF64Xn_G/view?usp=sharing)
 
-👋 Hi there! I'm Wonseok Son, and I'm interested in **Job Recommendation System, Semantic Table Interpretation, Knowledge Graph Inferences**.
+👋 Hi, I'm Wonseok Son
 
-I am conducting research as an undergraduate research student in the [Data Science Lab](https://www.datasciencelabs.org/), Dong-A Univ.
+**Master's Student | AI Researcher | Data Science Lab, Dong-A University**
+
+I am a Master's student in Computer Engineering at **Dong-A University** and a researcher at the [Data Science Lab](https://www.datasciencelabs.org/).
+
+My research interests include **Semantic Table Interpretation, Representation Learning, Knowledge Graphs, and Recommendation Systems**.
 
 ---
 
