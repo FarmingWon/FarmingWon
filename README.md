@@ -19,7 +19,7 @@ I am conducting research as an undergraduate research student in the [Data Scien
   *ACM CIKM 2026*
 
 - **GreenAccounter: A Toolkit for Carbon-Aware Orchestration of Deep Learning Workloads in Geo-Distributed Clouds**  
-  *SoftwareX, 34 (2026), 102550*
+  *SoftwareX, (2026)*
 
 ---
 <!--![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarmingWon&theme=vue)-->
